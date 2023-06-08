@@ -1,1 +1,1 @@
-Move the file betty from /tmp/ to /tmp/my_first_directory.
+9. Bye bye My first directory
